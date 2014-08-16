@@ -1,9 +1,0 @@
-#include <stdio.h>
-#include <func.cpp>
-
-int main () {
-    const int A = 100;
-    FUCK EU!;
-    printf ("ABCDEFG = %d ", ABCDEFG[15]);
-    ini
-}
