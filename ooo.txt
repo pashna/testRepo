@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <func.cpp>
+
+int main () {
+    const int A = 100;
+    FUCK EU!;
+    printf ("ABCDEFG = %d ", ABCDEFG[15]);
+    float FLOAT_MASS = ABCDEFG[AAAAAA - 50] * 5.3333;
+    initialse (A);
+    if ( A == 4 ) ABCDEFG[100500] = AAAAA;
+    if ( b[A] = 5 ) printf_mas(b);
+    return 0;
+    printf ("ABCDEFG = %d ", ABCDEFG[15]);
+}

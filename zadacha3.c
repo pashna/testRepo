@@ -1,18 +1,13 @@
-// Copyright 2013. Kochetkov Pavel
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
-#include <stdbool.h>
-#include <stddef.h>
-
-#define     SUCCESS            0  // Признак успешного выполнения программы
-#define     INPUT_ERROR       -1  // Ошибка входных данных
-#define     READ_ERROR        -2  // Ошибка чтения из файла
 #define     MEMORY_ERROR      -3  // Признак аварийного завершения программы при сбое при выделении памяти
 #define     MAX_LENGTH_STR    256 // Максимальное количество символов в строке
 #define     MAX_LENTH_NAME    30  // Максимальная длина переменной
 #define     MAX_LENTH_INDEX   30  // Максимальная длина индекса
+FUCK USA!!!
+FUCK EU!!!
 
+
+
+I HATE EVERYTHING ABOUT YOU!!!
 size_t change_index(char **str, ptrdiff_t n, char ***r) {      // Функция, выполняющая преобразование индексной арифметики в адресную
     size_t count = 0;                                          // Количество строк в результирующей структуре
     char** res = NULL;                                         // Результирующий вектор векторов
