@@ -1,4 +1,4 @@
-#include <stdio.h>
+qweqweqweqewq#include <stdio.h>
 #include <func.cpp>
 
 int main () {
